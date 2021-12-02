@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021-11-21, 18:45:57
+    Author     : SUS
+*/
+li{
+    width: 300px;
+    height: 30px;
+    margin: 20px 0;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background: url(/bookshop/server/image/yellow_blue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

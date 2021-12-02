@@ -1,0 +1,14 @@
+
+#s1{
+    position: relative;
+    top: 200px;
+}
+/*属性设置是否及如何重复背景图像。默认的背景图像在水平和垂直方向上重复。*/
+body{
+    background: url(../images/login_bg_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+}

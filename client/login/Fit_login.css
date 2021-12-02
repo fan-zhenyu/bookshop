@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021-11-22, 18:52:05
+    Author     : SUS
+*/
+#a1{
+   text-align: right; 
+}
+#a2{
+   text-align: center; 
+}
+#s1{
+    position: relative;
+    top: 200px;
+}
+/*属性设置是否及如何重复背景图像。默认的背景图像在水平和垂直方向上重复。*/
+html{
+    background: url(../../images/login_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
